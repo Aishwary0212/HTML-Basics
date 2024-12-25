@@ -1,0 +1,14 @@
+Approach:
+1.Reviewed the task to ensure all required elements (title, heading, paragraph, list, link, image, and comments) were included.
+2.Planned the structure of the page, grouping related content into sections like "About Me," "Favorite Things," and "Useful Links."
+3.Included comments to describe each section for better readability.
+4.Ensured the image URL and hyperlink worked correctly by testing them.
+
+Learning:
+1. Refreshed the basics of HTML, including the use of <html>, <head>, and <body> sections.
+2.Practiced tags like <h1>, <p>, <ul>, <li>, <a>, and <img>.
+3.Learned how to add attributes like href for links and src for images.
+Code Organization:
+4.Used comments (<!-- -->) effectively to describe code sections, improving readability.
+5.Ensured the page rendered correctly by testing it in a browser.
+Fixed issues like broken links or missing alt text for the image.
